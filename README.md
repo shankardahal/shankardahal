@@ -34,5 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=net13s&" alt="net13s" /></p>
 
-## snake eating my contribution graph
-![snake gif](https://github.com/YOUR_USERNAME/net13s/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/net13s/net13s/blob/output/github-contribution-grid-snake.gif)
