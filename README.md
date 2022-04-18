@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shankar dahal</h1>
 <h3 align="center">I am an IT student from nepal</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=net13s&label=Profile%20views&color=0e75b6&style=flat" alt="net13s" /> </p>
 
