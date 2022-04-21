@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **computer engineering/Business**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shankardahal](https://github.com/net13s)
+- 👨‍💻 All of my projects are available at [https://github.com/shankardahal](https://github.com/shakardahal)
 
 - 📫 How to reach me **dahalshankar00@gmail.com**
 
@@ -33,11 +33,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/shankar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shankar" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=net13s&show_icons=true&locale=en&layout=compact" alt="net13s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakardahal&show_icons=true&locale=en&layout=compact" alt="shakardahal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=net13s&show_icons=true&locale=en" alt="net13s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakardahal&show_icons=true&locale=en" alt="shakardahal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=net13s&" alt="net13s" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakardahal&" alt="shakardahal" /></p>
 ub-contribution-grid-snake.gif)
       
       
