@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **computer engineering/Business**
 
-- 👨‍💻 All of my projects are available at [https://github.com/net13s](https://github.com/net13s)
+- 👨‍💻 All of my projects are available at [https://github.com/shankardahal](https://github.com/net13s)
 
 - 📫 How to reach me **dahalshankar00@gmail.com**
 
