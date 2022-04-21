@@ -4,9 +4,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=net13s&label=Profile%20views&color=0e75b6&style=flat" alt="net13s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shankardahal&label=Profile%20views&color=0e75b6&style=flat" alt="shankardahal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=net13s" alt="net13s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shankardahal" alt="net13s" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shankardahal00" target="blank"><img src="https://img.shields.io/twitter/follow/shankardahal00?logo=twitter&style=for-the-badge" alt="shankardahal00" /></a> </p>
 
